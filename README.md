@@ -1,2 +1,3 @@
 # LPIII
-Linguagem de programação III
+Linguagem de programação III 
+Professor: Emerson Assis
